@@ -176,3 +176,6 @@ myEmp.setInd(0)
 print (f'''{myEmp.getName()} in {myEmp.getDept()} - {myEmp.departments[myEmp.getDept()]} Induction = {myEmp.getInd()}''')
 
 """
+
+
+# Happy coding!
